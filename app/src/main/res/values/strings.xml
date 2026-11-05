@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App de Sensores</string>
+    <string name="main_menu">Menú Principal</string>
+    <string name="proximity_sensor">Sensor de Proximidad</string>
+    <string name="screen_unlocked">Pantalla no bloqueada</string>
+    <string name="screen_locked">Pantalla bloqueada</string>
+    <string name="sensor_value_default">Valor del sensor: --</string>
+    <string name="sensor_value">Valor del sensor: %1$s cm</string>
+    <string name="show_block_count">Ver Contador de Bloqueos</string>
+    <string name="block_count_toast">Bloqueos de pantalla: %1$d</string>
+    <string name="sensor_not_available">Sensor de proximidad no disponible</string>
+    <string name="back_button">Regresar</string>
+    <string name="gravity_sensor">Sensor de Gravedad</string>
+</resources>
